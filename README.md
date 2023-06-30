@@ -50,8 +50,6 @@ EER diagram:
 1.	User name = root
 2.	Password = ****** (whatever you set)
 
-For eg: -
- ![image](https://user-images.githubusercontent.com/80198976/192359088-e6a42443-aaf1-49f5-82c1-492714287303.png)
 
 
 2.	After, running the program it will ask you to enter username and respective password.
