@@ -11,7 +11,7 @@ EER diagram:
 2.	 Add a connection or select an existing one.
 
 3.	Make sure that you select user as “root” , hostname as “127.0.0.1” and port as 3306 for a new connection.
-![image](https://user-images.githubusercontent.com/80198976/192358758-3073d453-f4a5-4ab4-b9ea-7b3b4460339b.png)
+
 
 4.	Enter your password if there is an existing connection.
 ![image](https://user-images.githubusercontent.com/80198976/192358830-ece5a335-f3f5-4ff4-bb02-5fb4e1d1f2c8.png)
